@@ -1,0 +1,157 @@
+<resources>
+    <string name="app_name">arelfit</string>
+
+    <string name="pose1">
+        1-Şınav ya da klasik plank pozisyonunda harekete başlanır. Eğer karın kısmını izole çalıştırmak istiyorsanız plank, gelişime omuz, arka kol ve ön kol da dahil olsun istiyorsanız şınav pozisyonunu tercih edin. \n\n
+        2-Pozisyonunuzu belirledikten sonra bir ayağınızı yukarı yani yan karına doğru çekmeye başlayın. Bunu yaparken yan karın kaslarınıza iyice konsantre olun. Onları sıkıştırın. \n\n
+        3-Ayağınız maksimum ölçüde yukarıya kadar geldikten ve yan karnınızı sıkıştırdıktan sonra geriye doğru itin ve diğer ayağınızı çekmeye başlayın. Aynı işlemleri ona da uygulayın. \n\n
+        4-Nefes kontrolü ise; çekiş anında nefes vermek, itiş anında nefes almak tekrar sayınızı arttıracaktır. \n\n
+        5-Bu egzersizi 3 set maksimum tekrar olarak uygulayabilirsiniz.
+    </string>
+
+    <string name="pose2">
+1-Pozisyonunuzu aldıktan sonra ilk resimde ki gibi vücudunuz tam düz olacak şekilde başlangıç pozisyonuna geçin. \n\n
+2-Nefes alarak üst gövdenizi 45 derecelik bir açı yaratıncaya kadar kalkın. Bir saniye kadar bekleyin ve nefes vererek başlangıç pozisyonuna dönün. \n\n
+3-Başlangıç pozisyonuna geldiğinizde 2 saniye kadar durun ve tekrar üst gövdenizi kaldırın. Set sayısı kadar yapıp hareketi tamamlayın.\n\n
+
+    </string>
+
+    <string name="pose3">
+        1-Omuz genişliğine yakın bir mesafe ile (mesafe kısalırsa kendinizi kaldırmanız daha kolay olur) bench’e eller sabitlenir. Ayaklar ileriye doğru kırmadan uzatılır. Üstteki resim başlangıç pozisyonunuz olacak. Set başlangıcında nefes koordinasyonu ve harekete başlamak için tek seferlik dirseklerinizi kitleyebilirsiniz. Set boyunca tekrar kitlemeyeceksiniz. Bunun nedeni ise yükün sürekli eklemde değil arka kol kasında olması içindir. \n\n
+        2-Nefes alarak 1,5 – 2 saniye aralığında dirsek açısını kapatarak vücudu aşağı salmaya başlayın. Dip noktaya geldiğinizde 1 saniye kadar bekleyin ve ardından nefes vererek 1 – 1,5 saniye aralığında yükselişe geçin. \n\n
+        3-Tepe noktada dirsekleri kitlemeden 1 saniye kadar bekleyin ve tekrar inişe geçin \n\n
+        4-Bench dips egzersizi için 4 set 10 tekrar uygun olacaktır. 10 tekrarı kolaylıkla yapmaya başladığınızda, ayaklarınızı bir başka bench’e uzatıpı, karnınızın üstüne ağırlık plakaları koyabilirsiniz. \n\n
+    </string>
+
+    <string name="pose4">
+    1-Sırt üstü yere uzanın. Dizleri kırın ve bir dizi diğerinin üzerine yerleştirin. \n\n
+    2-Elinizi ensenize koyun ve yerde duran dize doğru yan mekik yapın.\n\n
+    3-Bu harekette yine boyundan ve belden değil, mide kaslarınızdan güç almalısınız.\n\n
+    4-Ensenizde ağrı hissetmemelisiniz. \n\n
+    5-Karın bölgenizde yanma hissetmelisiniz. \n\n
+
+    </string>
+
+    <string name="pose5">
+        1-Sırt üstü yere uzanın. Bacakları dik yukarı kaldırın.\n\n
+        2-Ellerinizle sabit bir yerden tutunarak destek alabilirsiniz. \n\n
+        3-Kendinizi belden iterek bacakları yukarı itmeye çalışın. \n\n
+        4-Belinize ve sırtınıza dikkat edin. Hareket alt karın kasları için çok idealdir. \n\n
+
+    </string>
+
+    <string name="pose6">
+        1-Yumuşak olmayan bir zemine uzanılır \n\n
+        2-Dizler 90 derece kırılır.\n\n
+        3-Parmak uçları tam karşıya bakar.\n\n
+        4-Eller salınır.\n\n
+        5-Sağ el ile sağ topuğa dokunulur.\n\n
+        6-Sol el ile sol topuğa dokunulur. \n\n
+
+    </string>
+
+    <string name="pose7">
+        1-Sırt üstü yere uzanın. \n\n
+        2-Bacakları 90 derece olacak şekilde kırarak kaldırın. \n\n
+        3-İşi zorlaştırmak isterseniz diz kapaklarının arasına küçük bir top koyun ve hareket sırasında topu sıkın. \n\n
+        4-Mekik hareketini bu şekilde devam ettirin. \n\n
+
+    </string>
+
+    <string name="pose8">
+        1- Ayaklar desteklere koyulur \n\n
+        2- Sırt yere değecek şekil yatılır \n\n
+        3- 90 derece kalkılır\n\n
+        4- Tekrar edilir hareket\n\n
+
+    </string>
+    <string name="pose9">
+        1-Sırt üstü yere uzanın. \n\n
+        2-Bacakları havaya kaldırın dik olmasına dikkat edin. \n\n
+        3-Karın kaslarından kuvvet alarak bacaklara doğru kalkarken ellerinizle ayaklarınıza dokunmaya çalışın. Boynunuzdan güç almayın. \n\n
+        4-Tekrar yavaşça yere yatın. \n\n
+        5-Bu şekilde harekete devam edin. \n\n
+
+    </string>
+    <string name="pose10">
+        1-Bu şınav çekme yöntemi klasik "şınav çekme"dan daha karmaşık bir yöntemdir. Göğüs bölgesini yoğun bir şekilde çalıştırmanın yanı sıra, doğru bir uygulama, omuzlar üzerinde de çalışarak vücudun merkez kısmını güçlendirmeye yardımcı olur. \n\n
+        2-Dönüş yöntemi ile şınav çekme özellikle, vücudun merkez bölgesinde büyük bir istikrar ve denge kuran şınav yöntemi gerektiren sporları yapanlar için uygundur. \n\n
+        3_En belirgin sonuçlar da omuzları dengede tutması ve gövdenin tüm kasların güçlendirilmesidir.
+    </string>
+
+    <string-array name="title_story">
+
+        <item>Kas Gelişimi İçin Yapılması Gerekenler</item>
+        <item>Kilo Almak İçin Yapılması Gerekenler</item>
+        <item>Yağ Yakımı İçin Yapılması Gerekenler</item>
+        <item>Sumplement Önerileri</item>
+        <item>Yoga Yapımı</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+
+
+    </string-array>
+
+    <string-array name="details_story">
+
+        <item>
+            1- Kullandığınız ağırlık miktarını artırın. \n\n
+            2- Doğru antrenmanları yaptığınızdan emin olun. \n\n
+            3- Temel vücut hareketlerine önem verin. \n\n
+            4- Antrenman programınızı değiştirin. \n\n
+            5- Protein tüketiminizi artırın. \n\n
+            6- Karbonhidrat ve yağ alımını unutmayın. \n\n
+            7- Egzersizin süresini kısa tutun \n\n
+            8- Egzersiz sonrası dinlenmeye zaman ayırın. \n\n
+        </item>
+        <item>
+            1-Güne 1 su bardağı veya 1 çay bardağı kadar sade kefir ile başlayın. Uyanır uyanmaz bunu alışkanlık haline getirin. \n\n
+            2-Kahvaltı yapmayı ihmal etmeyin. Kilo almak isteyenlerin en iştahsız olduğu öğün sabah saatlerdir. Dolu dolu bir öğün yapmak zorunda olmasanız da yumurta ve yanında 1 küçük muz, 1-2 dilim peynir, 1-2 adet grisini gibi alternatifler de sağlıklı bir kahvaltı yerine geçecektir. \n\n
+            3-Öğle ve akşam ana öğünlerini mutlaka yapın. Yemek yemeye çorba ile değil ana yemek ile başlayın.\n\n
+            4-Günlük protein miktarınızı tamamlamaya özen gösterin. Örneğin 45 kg iseniz günde 60 gr kadar protein almalısınız. Hayvansal gıdalar protein açısından zengin olan gıdalardır. (60 gr protein: 1 yumurta + 2 dilim (60 gr peynir) + 1 su bardağı kefir + 1 kâse yoğurt (300 ml) + 150 gr et veya tavuk veya balık olarak hesaplanabilir) \n\n
+            5-Karbonhidrat tüketirken rafine olanları değil kompleks olanları seçin. Yani şeker ve şeker içeren gıdalar, beyaz un ve ürünleri, mısır (glikoz) şurubu içeren besinlerden uzak durun. Tam tahıllı un ve ürünlerini, kuru baklagilleri tercih edin. \n\n
+            6-Günde 1 yemek kaşığı bal, reçel veya pekmezden fazlasını tüketmeyin \n\n
+            7-Günde 1 avuç içi kadar kuruyemiş (ceviz, fındık, fıstık, kaju, kabak çekirdeği) tüketin. \n\n
+            8-Günde 1-2 porsiyon taze mevsim meyvesini mutlaka tüketin. \n\n
+            9-Günde 8-10 su bardağı su tüketin. Bu suyu öğünlerle birlikte değil öğün aralarında tüketmeyi tercih edin. \n\n
+            10-Her tedavi gibi beslenme tedavilerinin de kişiye özel olduğunu unutmayın. Mutlaka uzman ve diyetisyen kontrolünde ilerleyin. Beslenmenin yanında destek ürünlere veya destek medikal tedavilere ihtiyacınız olabileceğini unutmayın. \n\n
+        </item>
+        <item>
+            1- Çok düşük kalorilerle beslenmeyin. \n\n
+            2- Yağ alımını çok düşük tutmayın. \n\n
+            3- Geç saatlerde yemek yemeyin \n\n
+            4- Daha çok spor yapın, daha çok kalori yakın.\n\n
+            5- Kilo vermek için ağırlık antrenmanlarına önem gösterin.\n\n
+            6- Diyetinizde yeşil sebzelere yer verin \n\n
+            7- Daha çok su için. \n\n
+            8- Daha erken yatın.\n\n
+            9- Kilo vermek için güçlenin.\n\n
+            10- Sabahları yumurta tüketin.\n\n
+            11- Kahve için.\n\n
+            12- Yeşil çay için.\n\n
+            13- Sağlıklı yağ kaynakları tüketin.\n\n
+            14- Gün içinde daha az karbonhidrat alın.\n\n
+            15- Acı biber (kapsaisin) tüketin.\n\n
+        </item>
+
+        <item>
+            1- Protein Tozu : Spordan önce veya sonra kilonuzla orantılı bir şekilde tüketmelisiniz. Kas gelişimınde size çok büyük yarar sağlayacaktır \n\n
+            2- Kreatin : Spordan önce veya sonra 5g şeklinde alınmalıdır. Kaslarda su tutumunu arttırarak kasları daha belirgin bir hale getirecektir. \n\n
+            3- BCA : Spordan önce kullanılmalıdır. Size enerji vererek sporunuzu daha verimli hale getirecektir.
+            4- Glutamine : Glutamin insan vücudunda en fazla bulunan, yarı esansiyel bir amino asit türüdür. Yoğun fiziksel antrenman yapan bireylerde, vücudun yeteri kadar glutamin üretememesi durumunda amino asit desteği olarak takviye edilmesi önemlidir. Glutamin besinsel proteinden sağlanabileceği gibi, glutamin takviyeleri ile de karşılanabilmektedir. \n\n
+            5- Omega 3 : Omega-3, balıklardan ve nadir olarak da bitkilerden elde edilebilen esansiyel yağ asitleridir. Peki, "bu yağ asitleri ne işe yarıyor ve besinlerin dışında gıda takviyesi olarak tüketilmeli mi?" Balık yağı olarak da bilinen omega-3 yağ asitlerinin; kalp sağlığını desteklemek, bazı "mental" bozuklukların giderilmesine ve kilo kaybına yardımcı olmak, "cilt ile göz" sağlığını korumak, depresyon ve astım belirtillerini iyileştirmek, alerji riskini, enflamasyonu, karaciğer yağlanmasını azaltmak vb. gibi faydaları bulunmaktadır. \n\n
+        </item>
+
+        <item>
+            1-Belirli bir akışa bağlı kal \n \n
+            2-Her gün kendine yoga için zaman ayır.  \n \n
+            3-Yogayı önceliklendir. \n\n
+            4-Hareketsiz kalmak için de zaman ayır. \n\n
+        </item>
+    </string-array>
+
+
+</resources>
